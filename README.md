@@ -4,7 +4,7 @@ This repository contains a fully functional eCommerce web store built using [Rea
 
 This is based on the tutorial: 
 
-### **ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe** 
+**ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe** 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=377AQ0y6LPA
 " target="_blank"><img src="http://img.youtube.com/vi/377AQ0y6LPA/0.jpg" 
